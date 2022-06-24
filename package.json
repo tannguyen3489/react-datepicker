@@ -77,7 +77,7 @@
     ]
   },
   "devDependencies": {
-    "@babel/core": "^7.4.3",
+    "@babel/core": "^7.4.5",
     "@emotion/core": "^10.0.10",
     "@storybook/addon-actions": "^5.0.6",
     "@storybook/addon-info": "^5.0.6",
@@ -102,6 +102,7 @@
     "awesome-typescript-loader": "^5.2.1",
     "babel-loader": "^8.0.5",
     "clean-webpack-plugin": "2.0.1",
+    "core-js": "^3.23.2",
     "cross-env": "5.2.0",
     "css-loader": "2.1.0",
     "enzyme": "^3.8.0",

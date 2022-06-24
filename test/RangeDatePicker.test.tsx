@@ -7,7 +7,7 @@ import { mountInputSimulateChange } from './utils/TestingUtil';
 
 const START_INPUT_CLASS = '.range-picker-input__start .picker-input__text';
 const END_INPUT_CLASS = '.range-picker-input__end .picker-input__text';
-const INPUT_FORMAT = 'YYYY-MM-DD';
+const INPUT_FORMAT = 'MMM DD';
 
 describe('<RangeDatePicker/>', () => {
   const defaultProps = {

@@ -77,7 +77,7 @@ class RangePickerInput extends React.Component<Props> {
       <div className="range-picker-input">
         <span className="range-picker-input__start">{this.renderStartInput()}</span>
         <span className="range-picker-input__icon">
-	        <SVGIcon id="right-arrow"/>
+	       -
         </span>
         <span className="range-picker-input__end">{this.renderEndInput()}</span>
       </div>
